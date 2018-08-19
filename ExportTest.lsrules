@@ -1,0 +1,62 @@
+{
+  "description" : "Export test from LS to compare lsrules file format",
+  "name" : "ExportTest",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1534693737.4560561,
+      "modificationDate" : 1534697170.1060359,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "googlesyndication.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1534631880.1979389,
+      "modificationDate" : 1534697230.028379,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "adobedtm.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1534630482.5785599,
+      "modificationDate" : 1534697181.3429708,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "amazon-adsystem.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1534625010.0212221,
+      "modificationDate" : 1534697201.6902452,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "advertising.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1515605929.0990891,
+      "modificationDate" : 1534697191.1103911,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "ads-twitter.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1515605860.493412,
+      "modificationDate" : 1534697131.6994209,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "googleadservices.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1515605764.837415,
+      "modificationDate" : 1534697055.52842,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote-domains" : "doubleclick.net"
+    }
+  ]
+}
