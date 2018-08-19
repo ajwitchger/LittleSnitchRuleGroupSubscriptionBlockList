@@ -1246,7 +1246,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "ad1..de.cz",
+"remote-domains" : "ad1.de.cz",
 },
 
 {
@@ -1838,7 +1838,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "adimg..net.com",
+"remote-domains" : "adimg.net.com",
 },
 
 {
@@ -2726,7 +2726,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "ads..lt.com",
+"remote-domains" : "ads.lt.com",
 },
 
 {
@@ -3870,7 +3870,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "ads..tv.com",
+"remote-domains" : "ads.tv.com",
 },
 
 {
@@ -5278,7 +5278,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "ads2..net.cz",
+"remote-domains" : "ads2.net.cz",
 },
 
 {
@@ -8822,7 +8822,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "bumpberam..ro",
+"remote-domains" : "bumpberam.ro",
 },
 
 {
@@ -9846,7 +9846,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "content..cc-hd.de",
+"remote-domains" : "content.cc-hd.de",
 },
 
 {
@@ -10870,7 +10870,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "e..de.cz",
+"remote-domains" : "e.de.cz",
 },
 
 {
@@ -13806,7 +13806,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "mads..net.com",
+"remote-domains" : "mads.net.com",
 },
 
 {
@@ -13982,7 +13982,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "media..tv-publicite.fr",
+"remote-domains" : "media.tv-publicite.fr",
 },
 
 {
@@ -14230,7 +14230,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "metrics..tv.ca",
+"remote-domains" : "metrics.tv.ca",
 },
 
 {
@@ -15558,7 +15558,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "parketsy..ro",
+"remote-domains" : "parketsy.ro",
 },
 
 {
@@ -16974,7 +16974,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "remotead..net.com",
+"remote-domains" : "remotead.net.com",
 },
 
 {
@@ -16990,7 +16990,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "republika..net.pl",
+"remote-domains" : "republika.net.pl",
 },
 
 {
@@ -17798,7 +17798,7 @@
 
 "action" : "deny",
 "process" : "any",
-"remote-domains" : "smetrics..tv.ca",
+"remote-domains" : "smetrics.tv.ca",
 },
 
 {
