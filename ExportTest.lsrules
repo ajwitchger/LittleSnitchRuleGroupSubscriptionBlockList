@@ -4,6 +4,14 @@
 "rules" : [
 {
 "action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "101com.com" 
+},
+{
+"action" : "deny",
 "creationDate" : 1534693737.4560561,
 "modificationDate" : 1534697170.1060359,
 "owner" : "any",
