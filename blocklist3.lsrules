@@ -1,0 +1,2206 @@
+{
+"description" : "Ad server list for with Little Snitch. last updated: 18 Aug 2018 17:27:19 GMT; entries: 2624; From Peter Lowe's ad server list: https://pgl.yoyo.org/as/serverlist.php?hostformat=littlesnitch;showintro=0",
+"name" : "Ad server list for with Little Snitch",
+"rules" : [
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tfag.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "theadex.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "theadhost.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "theads.me" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "thebugs.ws" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "therapistla.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "therichkids.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "thirdrespect.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "thrnt.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "throattrees.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "thruport.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tia.timeinc.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tidaltv.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tinybar.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tizers.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tlvmedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tnkexchange.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tns-counter.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tntclix.co.uk" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top-casting-termine.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top-site-list.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top.list.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top.mail.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top.proext.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top100-images.rambler.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top100.mafia.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top123.ro" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top20free.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "top90.ro" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topacity.info" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topbarh.box.sk" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topbucks.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topforall.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topgamesites.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "toplist.cz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "toplist.pornhost.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "toplista.mw.hu" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "toplistcity.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topping.com.ua" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "toprebates.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topsafelist.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topsir.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topsite.lv" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topsites.com.br" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "topstats.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "totemcash.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "touchclarity.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "touchclarity.natwest.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tour.brazzers.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tpnads.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracedesire.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.adform.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.anchorfree.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.contently.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.dating-4-you.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.flexlinks.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.flexlinkspro.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.gawker.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track.viewdeos.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "track1.viewdeos.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trackalyzer.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trackedlink.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trackedweb.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracker-pm2.spilleren.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracker.icerocket.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracker.marinsm.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracker.trackerfix.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracking.crunchiemedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracking.gajmp.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracking.internetstores.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tracking101.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trackingsoft.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trackmysales.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tradeadexchange.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tradedoubler.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "traffic-exchange.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "traffic.focuusing.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficadept.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficfactory.biz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficholder.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "traffichunt.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficjunky.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficleader.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficsecrets.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficspaces.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficstrategies.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficswarm.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "traffictrader.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficz.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafficz.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "traffiq.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trafic.ro" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "traktrafficflow.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "travis.bosscasinos.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trekblue.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trekdata.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trendcounter.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trendmd.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tribalfusion.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trickycelery.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tritetongue.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trix.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "trmit.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "truehits.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "truehits1.gits.net.th" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "truehits2.gits.net.th" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tsyndicate.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tubemogul.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "turboadv.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "turn.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tvmtracker.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "twittad.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "twyn.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tynt.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "tyroo.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "uarating.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "ukbanners.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "ultimateclixx.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "ultramercial.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "unarmedindustry.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "undertone.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "unknowntray.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "unrulymedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "untd.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "unusualtitle.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "urlcash.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "us.a1.yimg.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "usapromotravel.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "useriq.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "userreplay.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "userreplay.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "utarget.co.uk" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "utils.mediageneral.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "v1.cnzz.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "validclick.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "valuead.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "valueclick.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "valueclickmedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "valuecommerce.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "valuesponsor.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "variablefitness.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "veille-referencement.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "ventivmedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vericlick.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vertadnet.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "veruta.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vervewireless.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vibrantmedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "video-stats.video.google.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "videoadex.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "videoegg.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vidora.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "view4cash.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visiblemeasures.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visistat.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visit.webhosting.yahoo.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visitbox.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visitpath.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visual-pagerank.fr" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "visualrevenue.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vmmpxl.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "voicefive.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "voicevegetable.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vpon.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vrs.cz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vs.tucows.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vungle.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "vutzmxahqio.co" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wantmobi.bid" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "warlog.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "watchingthat.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wdads.sx.atl.publicus.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "web-stat.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "web.informer.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "web2.deja.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webads.co.nz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webads.nl" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webangel.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webcash.nl" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webcounter.cz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webcounter.goweb.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webgains.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webmaster-partnerprogramme24.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webmasterplan.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webmasterplan.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "weborama.fr" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webpower.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webreseau.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webseoanalytics.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "websponsors.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webstat.channel4.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webstat.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webstat.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webstats4u.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webtrackerplus.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webtracky.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webtraffic.se" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webtraxx.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webtrends.telegraph.co.uk" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "webtrendslive.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "werbung.meteoxpress.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wetrack.it" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "whaleads.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "whenu.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "whispa.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "whoisonline.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wholesaletraffic.info" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "widdit.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "widespace.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "widgetbucks.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wikia-ads.wikia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "window.nixnet.cz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wintricksbanner.googlepages.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wisepops.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "witch-counter.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wlmarketing.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wonderlandads.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wondoads.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "woopra.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "worldwide-cash.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wpnrtnmrewunrtok.xyz" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wt-eu02.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wtlive.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www-banner.chat.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www-google-analytics.l.google.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www.banner-link.com.br" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www.dnps.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www.kaplanindex.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www.money4exit.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www.photo-ads.co.uk" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "www8.glam.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "wwwpromoter.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "x-traceur.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "x6.yakiuchi.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xchange.ro" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xclicks.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xertive.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xg4ken.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xiti.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xplusone.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xponsor.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xq1.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xtendmedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xtremetop100.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xxxcounter.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "xxxmyself.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "y.ibsys.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yab-adimages.s3.amazonaws.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yabuka.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yadro.ru" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yesads.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yesadvertising.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yieldads.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yieldlab.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yieldmanager.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yieldmanager.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yieldmo.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yieldtraffic.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yldbt.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "ymetrica1.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "yoggrt.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "z5x.net" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zangocash.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zanox-affiliate.de" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zanox.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zantracker.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zedo.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zencudo.co.uk" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zenkreka.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zenzuu.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zeus.developershed.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zeusclicks.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zm232.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zmedia.com" 
+},
+{
+"action" : "deny",
+"creationDate" : 1515605860.493412,
+"modificationDate" : 1534697131.6994209,
+"owner" : "any",
+"process" : " /Applications/Safari.app/Contents/MacOS/Safari",
+"remote-domains" : "zqtk.net" 
+}
+]
+}
