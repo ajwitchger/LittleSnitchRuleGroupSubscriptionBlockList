@@ -1,7 +1,7 @@
 {
-  "description" : "Ad server list for with Little Snitch. last updated: 18 Aug 2018 17:27:19 GMT; entries: 2624; From Peter Lowe's ad server list: https://pgl.yoyo.org/as/serverlist.php?hostformat=littlesnitch;showintro=0",
-  "name" : "Ad server list for with Little Snitch",
-  "rules" : [
+"description" : "Export test from LS to compare lsrules file format",
+"name" : "ExportTest",
+"rules" : [
 {
 "action" : "deny",
 "creationDate" : 1515605860.493412,
@@ -20994,7 +20994,5 @@
 "process" : " /Applications/Safari.app/Contents/MacOS/Safari",
 "remote-domains" : "zqtk.net" 
 }
-
-
 ]
 }
