@@ -1,0 +1,18 @@
+{
+  "description" : "",
+  "name" : "test2",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1516380130.558481,
+      "modificationDate" : 1516380130.558481,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "cdn-apple.com",
+        "mzstatic.com",
+        "apple.com"
+      ]
+    }
+  ]
+}
